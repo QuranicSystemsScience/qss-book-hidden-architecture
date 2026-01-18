@@ -52,3 +52,10 @@ A long-term open scientific program to study the Quran as a structured informati
 - Statistics
 - Information theory
 - Complex systems
+
+## License
+
+- The source code in this repository is licensed under the MIT License.
+- The book text, figures, and PDFs are © Soufiane Baghor. All rights reserved.
+
+No part of the book content may be reused, redistributed, or republished without explicit permission.
